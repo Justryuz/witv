@@ -1,0 +1,455 @@
+#EXTM3U
+
+#IPTV Filter by Justryuz
+#09 May 2017 / 07.34 AM
+
+#------------#
+# Family Pack
+#------------#
+
+#EXTINF:0,==== Malaysia ====
+
+#EXTM3U
+  
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZHA6uKOgnYB99Yw9RdQS2E)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ8wD8VAB_x84S7XyxE5EgA)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHewmUSeKpcGY3Z7V2UJEuyE)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTKmXPgWC3P5E1hyXI5fm-M)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qr6ta2f-rbg9wVtBWU2mIU)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Okto.png",Okto 
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+#EXTINF:0,==== Kids Channel ====
+
+#EXTINF:0,MY: KidsZone!
+http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone-avc1_2200000=31.m3u8
+
+#EXTINF:0,MY: Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
+#EXTINF:0,MY: EBS Kids!
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:0,MY: TCT Kids!
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:0,==== Korean ====
+
+#EXTINF:0,MY: SOUTH KOREA",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0,MY: SOUTH KOREA",EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",ETN
+http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",G1
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KBC
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KBS 2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",MTN
+http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",SBS
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TBC
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TV Chosun (Opt-1)
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TV Chosun (Opt-2)
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",YTN
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:0,==== USA ====
+
+#EXTINF:0,MY: NatGeo!
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:0,MY: World News!
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:0,MY: USA AKC
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:0,MY: USA AFC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0,MY: American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+ 
+#EXTINF:0,MY: Animal Planet*
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0,MY: Animal Planet+
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:0,MY: Planet Cannabis
+https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
+
+#EXTINF:-1,MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:0,ID: Islam Channel
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w187226071.m3u8
+
+#EXTINF:0,ID: PeaceTV(CN) Channel
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8?wowzasessionid=1634360258
+
+#EXTINF:0,ID: eManTV Channel
+https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+
+#EXTINF:0,ID: IqraTV Channel
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b320000_t64MjQwcA==.m3u8
+
+#EXTINF:0,ID: GuideUs Channel
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+
+#EXTINF:0,ID: FashionTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0,ID: 英文FASHION HD2
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:0, 英文FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,ID: 英文CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1,Bloomberg TV (Asia|EN)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1,KBVR-TV Orange Media Network (Oregon)
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1,Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1,FOX Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1,Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1,TWiT - This Week in Tech
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#update soon for more channel
+
+#EXTINF:-0,==== INDO ====
+
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/RCTI-696x185.png" group-title="INDONESIA",RCTI HD
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/indosiar.png" group-title="INDONESIA",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/indosiar.png" group-title="INDONESIA",INDOSIAR HD
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/MNC-TV-696x128.png" group-title="INDONESIA",MNC TV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+ 
+#EXTINF:-11tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/MNC-TV-696x128.png" group-title="INDONESIA",MNC HD
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/trans-7-696x207.png" group-title="INDONESIA",TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA",TV ONE +
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/trans-tv-696x106.png" group-title="INDONESIA",TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/trans-tv-696x106.png" group-title="INDONESIA",TRANS TV +
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+ 
+#EXTINF:-1tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/sctv-696x286.png" group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+ 
+#EXTINF:-1tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/sctv-696x286.png" group-title="INDONESIA",SCTV HD
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+ 
+#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA",BERITA SATU WORDL
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+  
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOYfXtBhJ9wXhgzWWJ1eNyMGhK7iuBjfz8yHVmt-Tx0d_kZ7uZC7h9Muwxw&s=10" group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+ 
+#EXTINF:-1tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/metro-tv-696x191.png" group-title="INDONESIA",METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+ 
+#EXTINF:-1tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA",TVRI
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDONESIA",TVRI +
+http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/net-tv.png" group-title="INDONESIA",NET TV
+http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8
+  
+#EXTINF:-1 tvg-logo="https://www.teknosaurus.com/wp-content/uploads/2018/03/antv-696x267.png" group-title="INDONESIA",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/R3vGgGRuIWrXyJAfDixp5saQQQO-7APSRDrRBZDcaOZHzCmNkdDp8Gi2sTpngaeSU2OesExp_foPviehTgQSubQCQZmA4WzssSeMysS1Opzp8hgbzEgXQBpsiqVV-MU7A_k=w783-h188" group-title="INDONESIA",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8
+  
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/R3vGgGRuIWrXyJAfDixp5saQQQO-7APSRDrRBZDcaOZHzCmNkdDp8Gi2sTpngaeSU2OesExp_foPviehTgQSubQCQZmA4WzssSeMysS1Opzp8hgbzEgXQBpsiqVV-MU7A_k=w783-h188" group-title="INDONESIA",Metro TV +
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.kurajin.com/assets/uploads/2018/10/logo_rtv_rajawali_televisi-850x450.jpg" group-title="INDONESIA",RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.kurajin.com/assets/uploads/2018/10/logo_rtv_rajawali_televisi-850x450.jpg" group-title="INDONESIA",RTV +
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+ 
+#EXTINF:0tvg-logo="https://lh3.googleusercontent.com/proxy/lsfsFluzVJ9f2Xzhn6XIYb7D_6omnQw6HlulSSrH_j9MDQvk7lecaNqFd3cD4awubdrgtt2deQv5JQwcS7NGPkhzxVddvHFLMda9mbR437-_CcexxnC9ykSi=w470-h313" group-title="INDONESIA",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:0tvg-logo="https://lh3.googleusercontent.com/proxy/lsfsFluzVJ9f2Xzhn6XIYb7D_6omnQw6HlulSSrH_j9MDQvk7lecaNqFd3cD4awubdrgtt2deQv5JQwcS7NGPkhzxVddvHFLMda9mbR437-_CcexxnC9ykSi=w470-h313" group-title="INDONESIA",TVKU +
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:-1 group-title="INDONESIA",JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+
+#EXTINF:-0,==== Telefilm RTM MALAYSIA ====
+
+#EXTINF:0,VOD: 5 Hari Kita Bertemu
+https://rtmlfd01.secureswiftcontent.com/2c9114cbb237fc47c385a4c8a9c0ca8a/master.m3u8
+
+#EXTINF:0,VOD: Awe Keno Nikoh
+https://rtmlfd01.secureswiftcontent.com/f4cc439c628c696cba6e7a3a838de5df/master.m3u8
+
+#EXTINF:0,VOD: Al-Kisah Dua Roda
+https://rtmlfd01.secureswiftcontent.com/cd134c434808a21b5270777882029a87/master.m3u8
+
+#EXTINF:0,VOD: Awek Mulut Tempayan
+https://rtmlfd01.secureswiftcontent.com/b0113e6cf19b09669c986872916da3ca/master.m3u8
+
+#EXTINF:0,VOD: Demi Mira
+https://rtmlfd01.secureswiftcontent.com/e48821dd83f568c7194554182ce885ad/master.m3u8
+
+#EXTINF:-0,==== RADIO NEGERI MALAYSIA ====
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/4/image/300x0/images.title?quality=100" tvg-name="Nasional FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd005/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/7/image/300x0/images.title?quality=100" tvg-name="Pilihan FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd003/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/6/image/300x0/images.title?quality=100" tvg-name="Pelangi FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd001/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/3/image/300x0/images.title?quality=100" tvg-name="Harmoni FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd003/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/5/image/300x0/images.title?quality=100" tvg-name="Nur Islam FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd004/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKEDAHFMLOGO170X96.png" tvg-name="KedahFM"  group-title="Radio",KedahFM
+https://kedahfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKLFMLOGO170X96.png" tvg-name="KLFM"  group-title="Radio",KLFM
+https://klfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch018/rtm-ch018-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOSELANGORFMLOGO170X96.png" tvg-name="SelangorFM"  group-title="Radio",SelangorFM
+https://klfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch023/rtm-ch023-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOSABAHFMLOGO170X96.jpg" tvg-name="SabahFM"  group-title="Radio",SabahFM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOSARAWAKFMLOGO170X96.png" tvg-name="SarawakFM"  group-title="Radio",SarawakFM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOLABUANFMLOGO170X96.png" tvg-name="LabuanFM"  group-title="Radio",LabuanFM
+https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKELANTANFMLOGO170X96.png" tvg-name="KelantanFM"  group-title="Radio",KelantanFM
+https://kelantanfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch032/rtm-ch032-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOTERENGGANUFMLOGO170X96.png" tvg-name="TerengganuFM"  group-title="Radio",TerengganuFM FM
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOPAHANGIFMLOGO170X96.png" tvg-name="PahangFM"  group-title="Radio",PahangFM
+https://pahangfmmobile.secureswiftcontent.com/rtm-ch034/rtm-ch034/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOJOHORTFMLOGO170X96.jpg" tvg-name="JohorFM"  group-title="Radio",JohorFM
+https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035_aac/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIONEGERIFMLOGO170X96.jpg" tvg-name="NegeriFM"  group-title="Radio",NegeriFM
+https://kedahfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOPERAKFMLOGO170X96.png" tvg-name="PerakFM"  group-title="Radio",PerakFM
+https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOMUTIARAFMLOGO170X96.png" tvg-name="MutiaraFM"  group-title="Radio",MutiaraFM
+https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOPERLISFMLOGO170X96.png" tvg-name="PerlisFM"  group-title="Radio",PerlisFM
+https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOMELAKAFMLOGO170X96.png" tvg-name="MelakaFM"  group-title="Radio",MelakaFM
+https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOWAIFMLOGO170X96.png" tvg-name="WaiFM"  group-title="Radio",WaiFM
+https://waifmi.secureswiftcontent.com/memorystreams/HLS/rtm-ch025/rtm-ch025-96000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOWAIFMLOGO170X96.png" tvg-name="WaiFM Iban"  group-title="Radio",WaiFM Iban
+https://waifmibanmobile.secureswiftcontent.com/rtm-ch042/rtm-ch042/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOWAIFMLOGO170X96.png" tvg-name="WaiFM Bidayuh/ Kayan"  group-title="Radio",WaiFM Bidayuh/ Kayan
+https://waifmb.secureswiftcontent.com/rtm-ch029/rtm-ch029/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOREDFMLOGO170X96.jpg" tvg-name="RedFM"  group-title="Radio",RedFM
+https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
+
+#EXTINF:-0,==== RADIO MALAYSIA ====
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="EraFM"  group-title="Radio",EraFM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HotFM"  group-title="Radio",HotFM
+http://mediaprima.rastream.com/mediaprima-hotfm?type=.mp3/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="KoolFM"  group-title="Radio",KoolFM
+http://mediaprima.rastream.com/mediaprima-koolfm.android
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.suriafm.com.my/logo.png" tvg-name="SuriaFM"  group-title="Radio",SuriaFM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png" tvg-name="THR GEGAR"  group-title="Radio",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sinar_fm_my.png" tvg-name="SinarFM"  group-title="Radio",SinarFM
+http://astro2.rastream.com/sinar
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://4.bp.blogspot.com/-7EyhamiMlDM/WvB8VnqItfI/AAAAAAAAACA/ffNo8t-FCdEw1q_eMCWIomNs3Rqj0rmXgCLcBGAs/s1600/2017102016231498457.png" tvg-name="SinarFM"  group-title="Radio",AstroArenaFM
+http://astro1.rastream.com/amp-arena
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/radio/xx/xfm_astro.png" tvg-name="XfreshFM"  group-title="Radio",XfreshFM
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2019/01/zayan-fm-100x47.jpg" tvg-name="ZayanFM"  group-title="Radio",ZayanFM
+https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/muzik-fm.jpg" tvg-name="MuzikFM"  group-title="Radio",MuzikFM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/hh/hitz_fm.png" tvg-name="HitzFM"  group-title="Radio",HitzFM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mix_astro.png" tvg-name="MixFM"  group-title="Radio",MixFM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1280px-Logo_Fly_FM.svg.png" tvg-name="FlyFM"  group-title="Radio",FlyFM
+http://radioactive1.rastream.com/mediaprima-flyfm?type=.mp3/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LiteFM"  group-title="Radio",LiteFM
+http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="IndiaBEAT"  group-title="Radio",IndiaBEAT
+http://astro4.rastream.com/india?type=.flv
